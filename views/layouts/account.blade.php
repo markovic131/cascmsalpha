@@ -8,14 +8,14 @@
         @show
     </title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
-    <link rel="stylesheet" href="{{ asset('themes/adminlte/vendor/bootstrap/dist/css/bootstrap.min.css') }}"/>
-    <link rel="stylesheet" href="{{ asset('themes/adminlte/vendor/font-awesome/css/font-awesome.min.css') }}"/>
-    <link rel="stylesheet" href="{{ asset('themes/adminlte/css/vendor/ionicons.min.css') }}"/>
-    <link rel="stylesheet" href="{{ asset('themes/adminlte/css/vendor/alertify/alertify.core.css') }}"/>
-    <link rel="stylesheet" href="{{ asset('themes/adminlte/vendor/admin-lte/dist/css/AdminLTE.min.css') }}"/>
-    <link rel="stylesheet" href="{{ asset('themes/adminlte/vendor/admin-lte/plugins/iCheck/square/blue.css') }}"/>
+    <link rel="stylesheet" href="{{ asset('themes/cascmsadmin/vendor/bootstrap/dist/css/bootstrap.min.css') }}"/>
+    <link rel="stylesheet" href="{{ asset('themes/cascmsadmin/vendor/font-awesome/css/font-awesome.min.css') }}"/>
+    <link rel="stylesheet" href="{{ asset('themes/cascmsadmin/css/vendor/ionicons.min.css') }}"/>
+    <link rel="stylesheet" href="{{ asset('themes/cascmsadmin/css/vendor/alertify/alertify.core.css') }}"/>
+    <link rel="stylesheet" href="{{ asset('themes/cascmsadmin/vendor/admin-lte/dist/css/AdminLTE.min.css') }}"/>
+    <link rel="stylesheet" href="{{ asset('themes/cascmsadmin/vendor/admin-lte/plugins/iCheck/square/blue.css') }}"/>
 
-    <script src="{{ asset('themes/adminlte/vendor/jquery/jquery.min.js') }}"></script>
+    <script src="{{ asset('themes/cascmsadmin/vendor/jquery/jquery.min.js') }}"></script>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -31,9 +31,9 @@
 </div>
 
 <!-- Bootstrap -->
-<script src="{{ asset('themes/adminlte/vendor/bootstrap/dist/js/bootstrap.min.js') }}"></script>
-<script src="{{ asset('themes/adminlte/vendor/iCheck/icheck.min.js') }}"></script>
-<script src="{{ asset('themes/adminlte/js/vendor/alertify/alertify.js') }}"></script>
+<script src="{{ asset('themes/cascmsadmin/vendor/bootstrap/dist/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('themes/cascmsadmin/vendor/iCheck/icheck.min.js') }}"></script>
+<script src="{{ asset('themes/cascmsadmin/js/vendor/alertify/alertify.js') }}"></script>
 <script>
     $(function () {
         $('input').iCheck({
